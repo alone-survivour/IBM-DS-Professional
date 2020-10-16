@@ -19,5 +19,5 @@ In this module, we will carry out the remaining part of final project work. We w
 3. Your choice of a presentation or blog post
 # My Work:
 * Blogpost:https://shanmuktata2200.medium.com/a-delightful-tale-of-two-cities-story-telling-using-data-9c7d94ac9dbd
-* Notebook: https://github.com/alone-survivour/IBM-DS-Professional/blob/CapstoneFinalProject/Battle_Of_Neighbourhood.ipynb
+* Notebook: https://github.com/alone-survivour/IBM-DS-Professional/blob/CapstoneFinalProject/Battle_Of_Neighbourhoods_Project_Notebook.ipynb
 * Report: https://github.com/alone-survivour/IBM-DS-Professional/blob/CapstoneFinalProject/Battle_Of_Neighborhoods_ProjectReport.pdf
