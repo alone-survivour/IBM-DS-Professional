@@ -20,4 +20,4 @@ In this module, we will carry out the remaining part of final project work. We w
 # My Work:
 * Blogpost:https://shanmuktata2200.medium.com/a-delightful-tale-of-two-cities-story-telling-using-data-9c7d94ac9dbd
 * Notebook: https://github.com/alone-survivour/IBM-DS-Professional/blob/CapstoneFinalProject/Battle_Of_Neighbourhood.ipynb
-* Report: https://www.google.com
+* Report: https://github.com/alone-survivour/IBM-DS-Professional/blob/CapstoneFinalProject/Battle_Of_Neighborhoods_ProjectReport.pdf
